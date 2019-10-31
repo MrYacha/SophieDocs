@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2019-10-31T19:59:53.664Z
+date: 2019-10-31T20:21:50.958Z
 tags: 
 ---
 
@@ -18,3 +18,7 @@ tags:
 - Modular
 - Fully async
 - Frequently updated
+
+Add Sophie to your chat:
+- [Sophie Bot](https://t.me/rSophieBot)
+{.links-list}
