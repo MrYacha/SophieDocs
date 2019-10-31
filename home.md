@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2019-10-31T20:21:50.958Z
+date: 2019-10-31T20:53:09.658Z
 tags: 
 ---
 
@@ -22,3 +22,7 @@ tags:
 Add Sophie to your chat:
 - [Sophie Bot](https://t.me/rSophieBot)
 {.links-list}
+
+<div id="container">
+<iframe src="127.0.0.1:8085" scrolling="no"></iframe>
+</div>
