@@ -2,7 +2,7 @@
 title: Notes
 description: 
 published: 1
-date: 2019-10-31T20:10:23.573Z
+date: 2019-10-31T20:10:24.531Z
 tags: 
 ---
 
