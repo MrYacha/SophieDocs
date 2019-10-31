@@ -2,11 +2,11 @@
 title: Notes
 description: 
 published: 1
-date: 2019-10-31T19:59:53.664Z
+date: 2019-10-31T20:10:23.573Z
 tags: 
 ---
 
-Sometimes you need save some data, like text or picture. With notes you can save any types of Telegram's data
+Sometimes you need save some data, like text or pictures. With notes you can save any types of Telegram's data
 
 
 ## Available commands are:
