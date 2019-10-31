@@ -2,7 +2,7 @@
 title: Notes
 description: 
 published: 1
-date: 2019-10-31T20:10:24.531Z
+date: 2019-10-31T20:23:07.204Z
 tags: 
 ---
 
@@ -15,6 +15,7 @@ Sometimes you need save some data, like text or pictures. With notes you can sav
 - `/clear (name)`: deletes the note
 - `/notes` or `/saved`: Lists all notes
 - `/noteinfo (name)`: Shows detailed info about note, who updated and created note
+{.grid-list}
 
 ## Example
 
