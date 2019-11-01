@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2019-11-01T14:48:24.629Z
+date: 2019-11-01T14:54:28.508Z
 tags: 
 ---
 
@@ -18,9 +18,13 @@ tags:
 - Modular
 - Fully async
 - Frequently updated
+- Fully open-source
+- Sophie support your data privacy, we constantly updating privacy and security in Sophie
 
 Add Sophie to your chat:
 - [Sophie Bot](https://t.me/rSophieBot)
+- [Sophie Support chat](https://t.me/SophieSupport)
+- [How to add Sophie to your chat](how_to_add)
 {.links-list}
 
 
@@ -33,3 +37,4 @@ Add Sophie to your chat:
         height="100%"
         frameBorder="0">
 </iframe>
+
