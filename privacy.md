@@ -1,8 +1,8 @@
 ---
-title: Data privacy
-description: 
+title: Data privacy and security
+description: Sophie - the Facebook opposite
 published: 1
-date: 2019-10-31T19:59:53.664Z
+date: 2019-11-01T15:53:13.544Z
 tags: 
 ---
 
