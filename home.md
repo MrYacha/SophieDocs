@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2019-11-01T14:48:02.184Z
+date: 2019-11-01T14:48:24.629Z
 tags: 
 ---
 
@@ -26,7 +26,7 @@ Add Sophie to your chat:
 
 ## Current Sophie stats:
 <iframe
-        src="https://localhost:8085/stats"
+        src="http://localhost:8085/stats"
         src1="https://api-sophie.orangefox.tech/stats"
         scrolling="no"
         width="100%"
