@@ -1,8 +1,8 @@
 ---
 title: API
-description: 
+description: Well, please just don't DDoS me
 published: 1
-date: 2019-10-31T21:45:14.585Z
+date: 2019-11-01T15:54:01.750Z
 tags: 
 ---
 
