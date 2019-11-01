@@ -1,8 +1,8 @@
 ---
 title: Connections
-description: 
+description: Keep your chat clear with MrPropper
 published: 1
-date: 2019-11-01T15:44:04.546Z
+date: 2019-11-01T15:46:02.717Z
 tags: 
 ---
 
