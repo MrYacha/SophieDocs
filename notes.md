@@ -1,8 +1,8 @@
 ---
 title: Notes
-description: 
+description: Save this Shiba pic please
 published: 1
-date: 2019-10-31T20:23:07.204Z
+date: 2019-11-01T15:48:26.518Z
 tags: 
 ---
 
