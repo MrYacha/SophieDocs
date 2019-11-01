@@ -1,8 +1,8 @@
 ---
 title: Running bot
-description: 
+description: "How to clone me" instruction by developers, by <3
 published: 1
-date: 2019-10-31T19:59:53.664Z
+date: 2019-11-01T15:49:34.208Z
 tags: 
 ---
 
