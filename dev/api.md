@@ -2,11 +2,15 @@
 title: API
 description: Well, please just don't DDoS me
 published: 1
-date: 2019-11-01T15:54:01.750Z
+date: 2019-11-02T19:27:24.968Z
 tags: 
 ---
 
 API avaible by https://api-sophie.orangefox.tech/
+
+> API not will available till Sophie v2.0 released
+{.is-warning}
+
 
 ## Usage
 TODO
