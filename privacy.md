@@ -2,7 +2,7 @@
 title: Data privacy and security
 description: Sophie - the Facebook opposite
 published: 1
-date: 2019-11-02T19:40:28.003Z
+date: 2019-11-02T19:40:38.981Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ Sophie team constantly improve privacy and security.
 We don't save your messages or any info about your messages
 {.is-info}
 
-## Which data we saving
+## Which data we are saving
 
 ### Public user's data
 - User name, user ID, nickname
