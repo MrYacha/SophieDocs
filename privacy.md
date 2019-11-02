@@ -2,7 +2,7 @@
 title: Data privacy and security
 description: Sophie - the Facebook opposite
 published: 1
-date: 2019-11-02T19:39:22.024Z
+date: 2019-11-02T19:40:28.003Z
 tags: 
 ---
 
@@ -16,7 +16,7 @@ We don't save your messages or any info about your messages
 ## Which data we saving
 
 ### Public user's data
-- user name, user ID, nickname
+- User name, user ID, nickname
 - Telegram language 
 - First detected timestamp
 
@@ -27,10 +27,10 @@ We don't save your messages or any info about your messages
 We are not logging messages count, messages text or authors! 
 
 ### Analytics
-- speed of long queries
-- counting of data types in all chats
+- Speed of long queries
+- Counting of data types in all chats
 - % of using features in chats
-- number of new chats in 48 hours
+- Number of new chats in 48 hours
 
 ### Crashlytics
 Crashlytics significantly helping Sophie be stable. We trying log as less data as possible, we can log only:
