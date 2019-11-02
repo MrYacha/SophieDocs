@@ -2,7 +2,7 @@
 title: Data privacy and security
 description: Sophie - the Facebook opposite
 published: 1
-date: 2019-11-01T15:53:13.544Z
+date: 2019-11-02T19:39:22.024Z
 tags: 
 ---
 
@@ -16,20 +16,18 @@ We don't save your messages or any info about your messages
 ## Which data we saving
 
 ### Public user's data
-- We collect first and last names, users ID, nicknames and first detect timestamp
-- We need this data for fast finding the user by nickname (ex. if you typing /warn @someone)
-- We never use this data to make user profiles, this data used only to make Sophie faster and independent from Telegram's requests.
-- If user pm'ed to bot, Sophie will save his Telegram's language.
+- user name, user ID, nickname
+- Telegram language 
+- First detected timestamp
 
 ### Chat data
 - Chat name, username and chat ID
 - We caching chat admins (1 hour after last command)
 
-We not logging messages count, message's text or authors! 
+We are not logging messages count, messages text or authors! 
 
 ### Analytics
-We logging only Sophie's general metrics as:
-- speed
+- speed of long queries
 - counting of data types in all chats
 - % of using features in chats
 - number of new chats in 48 hours
