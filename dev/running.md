@@ -2,11 +2,11 @@
 title: Running bot
 description: "How to clone me" instruction by developers, by <3
 published: 1
-date: 2019-11-01T15:49:34.208Z
+date: 2019-11-02T19:33:28.837Z
 tags: 
 ---
 
-Sophie can be doployed by 2 ways
+Sophie can be deployed by 2 ways
 
 ## Docker Way  
 ### Requirements 
