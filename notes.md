@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-02T19:06:01.971Z
+date: 2019-11-02T19:12:10.560Z
 tags: 
 ---
 
@@ -10,11 +10,11 @@ Sometimes you need save some data, like text or pictures. With notes you can sav
 Also notes perfectly working in PM with Sophie.
 
 ## Available commands
-- `/save (name) (data)`: Replying to a message will save that message. Even works on media!
-- `/get (name)`: get the note registered to that word.
-- `/clear (name)`: deletes the note
-- `/notes` or `/saved`: Lists all notes
-- `/noteinfo (name)`: Shows detailed info about note, who updated and created note
+- `/save (name) (data)`: Saves the note.
+- `#(name)` or `/get (name)`: Get the note registered to that word.
+- `/clear (name)`: deletes the note.
+- `/notes` or `/saved`: Lists all notes.
+- `/noteinfo (name)`: Shows detailed info about note, who updated and created note.
 {.grid-list}
 
 ## Examples
@@ -47,8 +47,8 @@ This will retrieve the note and send it without formatting it; getting you the r
 TODO in v2.0!
 
 ## Notes buttons and variables
-Notes support inline buttons, read the help page about buttons to get started with using it.
-Variables is special words which will be replaced by actual info, like if you add `{id}` in your note it will replaced by user ID which asked note, read the help page about variables
+Notes support inline buttons, read the [help page about buttons](other/buttons) to get started with using it.
+Variables is special words which will be replaced by actual info, like if you add `{id}` in your note it will replaced by user ID which asked note, read the [help page about variables](notes/variables)
 
 ## Notes formatting and notes settings
 Every note can contain special settings, for example you can change formatting method to HTML by `[format:html]` and fully disable it by `[format:off]`
