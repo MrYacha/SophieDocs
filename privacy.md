@@ -2,15 +2,15 @@
 title: Data privacy and security
 description: Sophie - the Facebook opposite
 published: 1
-date: 2019-11-02T19:40:38.981Z
+date: 2019-11-02T19:44:10.579Z
 tags: 
 ---
 
 Sophie respects your privacy, every part of Sophie is open-source.
 Sophie team constantly improve privacy and security.
 
-> We don't collect your privacy data
-We don't save your messages or any info about your messages
+> We don't collect your privacy data.
+We don't save your messages or any info about your messages.
 {.is-info}
 
 ## Which data we are saving
