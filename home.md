@@ -2,13 +2,16 @@
 title: Home
 description: 
 published: 1
-date: 2019-11-01T14:54:28.508Z
+date: 2019-11-03T20:26:32.180Z
 tags: 
 ---
 
 # Sophie Telegram Bot
 > Sophie is modern and fast Telegram chat manager bot
 {.is-info}
+
+> :warning: This docs are WIP for Sophie v2.0, don't use it for current Sophie. Also this docs can have missing pages and typos.
+{.is-warning}
 
 ---
 
