@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-02T19:12:10.560Z
+date: 2019-11-03T20:21:56.742Z
 tags: 
 ---
 
@@ -57,3 +57,5 @@ Every note can contain special settings, for example you can change formatting m
 - `[preview]`: Enables the links preview in saved note
 - `[encryption:<yes/no>]`: Note encryption (enabled by default)
 {.grid-list}
+
+![](https://i.imgur.com/oR7HI5X.png){.align-abstopright}
