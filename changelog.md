@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:40:10.645Z
+date: 2019-11-06T16:40:51.131Z
 tags: 
 ---
 
@@ -56,7 +56,7 @@ tags:
 - Migrated from MongoDB Pymongo to MongoDB Motor
 - Added apscheduller support.
 - Components was removed.
-- Dockerfile was converted to Alpine instead of Ubuntu.
+- Dockerfile base image was changed to a Alpine instead of Ubuntu.
 - Translations was converted to YAML files instead of JSON.
 - Logging changed to loguru lib
 - Indroduced own API (Beta)
