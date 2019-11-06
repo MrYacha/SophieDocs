@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:25:37.183Z
+date: 2019-11-06T16:27:05.223Z
 tags: 
 ---
 
@@ -61,4 +61,4 @@ tags:
 - Logging changed to loguru lib
 - Indroduced own API (Beta)
 
-And tonns of other edits and fixes
+And tons of other edits and fixes
