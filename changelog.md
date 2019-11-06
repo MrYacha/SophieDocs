@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:36:30.773Z
+date: 2019-11-06T16:37:03.613Z
 tags: 
 ---
 
@@ -44,7 +44,7 @@ tags:
 - If user not initialized dialog with Sophie but connected to chat directly - after starting bot Sophie will reply the 'connected successfully' message.
 
 ### Error reporting and crashlytics
-- Sophie now using sentry.io as crashlytics storage.
+- Sophie is now using sentry.io as crashlytics storage.
 - Removed crash files feature.
 - Added random strings to crash message.
 
