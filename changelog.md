@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:35:33.641Z
+date: 2019-11-06T16:36:30.773Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ tags:
 
 ### Federations
 - Sophie now can ban users which she could not get.
-- Added `/importfbans` command.
+- Implemented `/importfbans` command.
 - Added JSON and CSV support for `/exportfbans`.
 - Added timestamp for every federation ban.
 
