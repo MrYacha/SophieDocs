@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:37:03.613Z
+date: 2019-11-06T16:38:10.929Z
 tags: 
 ---
 
@@ -45,11 +45,11 @@ tags:
 
 ### Error reporting and crashlytics
 - Sophie is now using sentry.io as crashlytics storage.
-- Removed crash files feature.
+- Removed raw crash files feature.
 - Added random strings to crash message.
 
 ### Code changes
-- Only GNU/Linux OS supported to run Sophie, otherwise use Docker.
+- Only GNU/Linux OS are supported to run Sophie, otherwise use Docker.
 - Bot config changed to YAML.
 - Removed support of Telethon as commands register in our @decorator.
 - Sophie now fully modular, modules now independent of one another.
