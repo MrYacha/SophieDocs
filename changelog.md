@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:23:03.250Z
+date: 2019-11-06T16:25:37.183Z
 tags: 
 ---
 
@@ -18,8 +18,8 @@ tags:
 
 ### Notes
 - Support saving inline URL buttons from other bots.
-- Encryption method changed to default MongoDB, it make decrpytion process faster and simpler.
-- Improved support of saving already formatted messages (Telegram X issue fixed).
+- Encryption method changed to default MongoDB's one, it make decryption process faster and simpler.
+- Improved support for saving already formatted messages (Telegram X issue fixed).
 - Implemented cashtags instead of old note settings, instead of `[format:html]` used `$FORMAT_HTML` and `$FORMAT_NONE`, old parse setting leaved for compability.
 - Markdown migrated to botapi version: for example instead of `**bold**` now used `*bold*`.
 - Now you can't save blank note.
@@ -27,8 +27,8 @@ tags:
 
 ### Federations
 - Sophie now can ban users which she could not get.
-- Added `/importfbans`.
-- Added JSON and csv support for `/exportfbans`.
+- Added `/importfbans` command.
+- Added JSON and CSV support for `/exportfbans`.
 - Added timestamp for every federation ban.
 
 ### Misc
@@ -50,7 +50,7 @@ tags:
 
 ### Code changes
 - Only GNU/Linux OS supported to run Sophie, otherwise use Docker.
-- Bot config was changed to YAML.
+- Bot config changed to YAML.
 - Removed support of Telethon as commands register in our @decorator.
 - Sophie now fully modular, modules now independent of one another.
 - Fully migrated to MongoDB Motor and Aiogram libraries instead of MongoDB pymongo and Telethon.
