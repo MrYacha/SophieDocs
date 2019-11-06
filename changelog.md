@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:34:58.306Z
+date: 2019-11-06T16:35:33.641Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ tags:
 - Improved support for saving already formatted messages (Telegram X issue fixed).
 - Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `$FORMAT_HTML`, old parsing settings leaved for backward compatibility.
 - Markdown migrated to botapi version, for example, instead of `**bold**` now used `*bold*`.
-- Now you can't save blank note.
+- Forbidden to save blank notes.
 - Minor strings changes.
 
 ### Federations
