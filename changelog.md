@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:43:50.448Z
+date: 2019-11-06T16:45:36.546Z
 tags: 
 ---
 
@@ -32,8 +32,8 @@ tags:
 - Added timestamp for every federation ban.
 
 ### Misc
-- `/stats` now allowed only for operators.
-- `/runs` now can be disabled.
+- `/stats` are now allowed only for operators.
+- `/runs` are now can be disabled.
 
 ### Languages
 - Many improvements and fixes.
