@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:21:33.591Z
+date: 2019-11-06T16:23:03.250Z
 tags: 
 ---
 
@@ -41,7 +41,7 @@ tags:
 ### Connections
 - Many improvements and fixes
 - Added `/allowusersconnect` to disallow users to connect to chat (admins will be able connect to chat).
-- If user not started the bot in his pm and connected to chat, after starting Sophie will show 'connected successfully' message.
+- If user not initialized dialog with Sophie but connected to chat directly - after starting bot Sophie will reply the 'connected successfully' message.
 
 ### Error reporting and crashlytics
 - Sophie now using sentry.io as crashlytics storage.
