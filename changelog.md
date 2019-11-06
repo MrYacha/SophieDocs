@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T17:12:46.540Z
+date: 2019-11-06T20:29:27.859Z
 tags: 
 ---
 
@@ -15,6 +15,7 @@ tags:
 - Sophie's help moved to the https://wiki-sophie.orangefox.tech, help module was removed
 - SUDO users were removed and converted to operators
 - Global bans were removed
+- Fixed issue when command can be recognized not on first line of message
 
 ### Notes
 - Support saving inline URL buttons from other bots
