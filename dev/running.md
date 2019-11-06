@@ -2,11 +2,11 @@
 title: Running bot
 description: "How to clone me" instruction by developers, by <3
 published: 1
-date: 2019-11-02T19:33:28.837Z
+date: 2019-11-06T16:56:05.717Z
 tags: 
 ---
 
-Sophie can be deployed by 2 ways
+Sophie can be deployed in 2 ways
 
 ## Docker Way  
 ### Requirements 
@@ -29,7 +29,7 @@ Sophie can be deployed by 2 ways
 ### Running Redis and MongoDB  
 	docker run -d --rm --name redis-server --network sophiebot-net redis:alpine
 	docker run -d --rm --name mongo-server --network sophiebot-net mongo:latest
-### Builda & start a Sophie  
+### Builds & start a Sophie  
 	cd SophieBot
 	docker build . -t sophie
 	docker run -d -v /home/yacha/SophieBot/data/:/opt/sophie_bot/data --network sophiebot-net sophie   
