@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:38:17.612Z
+date: 2019-11-06T16:40:10.645Z
 tags: 
 ---
 
@@ -51,9 +51,9 @@ tags:
 ### Code changes
 - Only GNU/Linux OS are supported to run Sophie, otherwise use Docker.
 - Bot config file changed to YAML.
-- Removed support of Telethon as commands register in our @decorator.
+- Removed support of Telethon as commands register.
 - Sophie now fully modular, modules now independent of one another.
-- Fully migrated to MongoDB Motor and Aiogram libraries instead of MongoDB pymongo and Telethon.
+- Migrated from MongoDB Pymongo to MongoDB Motor
 - Added apscheduller support.
 - Components was removed.
 - Dockerfile was converted to Alpine instead of Ubuntu.
