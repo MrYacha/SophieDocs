@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:40:51.131Z
+date: 2019-11-06T16:41:22.651Z
 tags: 
 ---
 
@@ -57,8 +57,8 @@ tags:
 - Added apscheduller support.
 - Components was removed.
 - Dockerfile base image was changed to a Alpine instead of Ubuntu.
-- Translations was converted to YAML files instead of JSON.
-- Logging changed to loguru lib
-- Indroduced own API (Beta)
+- Translations was converted to a YAML files instead of JSON.
+- Logging changed to a loguru library.
+- Indroduced own API (Beta).
 
 And tons of other edits and fixes
