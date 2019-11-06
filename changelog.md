@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:30:53.987Z
+date: 2019-11-06T16:31:07.674Z
 tags: 
 ---
 
@@ -18,7 +18,7 @@ tags:
 
 ### Notes
 - Support saving inline URL buttons from other bots.
-- Encryption method has changed to default MongoDB's one, it make decryption process faster and simpler.
+- Encryption method was changed to default MongoDB's one, it make decryption process faster and simpler.
 - Improved support for saving already formatted messages (Telegram X issue fixed).
 - Implemented cashtags instead of old note settings, instead of `[format:html]` used `$FORMAT_HTML` and `$FORMAT_NONE`, old parse setting leaved for compability.
 - Markdown migrated to botapi version: for example instead of `**bold**` now used `*bold*`.
