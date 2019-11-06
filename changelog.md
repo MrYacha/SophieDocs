@@ -1,8 +1,8 @@
 ---
 title: Changelogs
-description: 
+description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:17:28.428Z
+date: 2019-11-06T16:20:23.919Z
 tags: 
 ---
 
