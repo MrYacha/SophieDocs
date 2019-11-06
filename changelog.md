@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:42:46.708Z
+date: 2019-11-06T16:43:20.096Z
 tags: 
 ---
 
@@ -21,7 +21,7 @@ tags:
 - Encryption method was changed to default MongoDB's one, it make decryption process faster and simpler.
 - Improved support for saving already formatted messages (Telegram X issue fixed).
 - Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `$FORMAT_HTML`, old parsing settings leaved for backward compatibility.
-- Markdown migrated to botapi version, for example, instead of `**bold**` now used `*bold*`.
+- Markdown migrated to botapi version, for example, instead of `**bold**` you have to `*bold*`.
 - Forbidden to save blank notes.
 - Minor strings changes.
 
