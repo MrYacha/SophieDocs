@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:20:23.919Z
+date: 2019-11-06T16:21:33.591Z
 tags: 
 ---
 
@@ -14,14 +14,14 @@ tags:
 - Now Sophie check user admin rights to make sure he has rights to perform this action, for example if user don't have permission to ban user he cannot use `/ban` command.
 - Sophie's help moved to https://wiki-sophie.orangefox.tech and help module was removed.
 - SUDO users was removed and converted to operators.
-- Global bans was removed and out team focused on Federations.
+- Global bans was removed.
 
 ### Notes
 - Support saving inline URL buttons from other bots.
 - Encryption method changed to default MongoDB, it make decrpytion process faster and simpler.
 - Improved support of saving already formatted messages (Telegram X issue fixed).
 - Implemented cashtags instead of old note settings, instead of `[format:html]` used `$FORMAT_HTML` and `$FORMAT_NONE`, old parse setting leaved for compability.
-- Markdown migrated to default bots version, instead of `**bold**` now used `*bold*`.
+- Markdown migrated to botapi version: for example instead of `**bold**` now used `*bold*`.
 - Now you can't save blank note.
 - Minor strings changes.
 
