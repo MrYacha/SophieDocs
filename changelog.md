@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:45:36.546Z
+date: 2019-11-06T16:50:33.663Z
 tags: 
 ---
 
@@ -11,17 +11,17 @@ tags:
 {.is-warning}
 
 ### General changes
-- Now Sophie check admin rights to make sure he has rights to perform this action, for example if user don't have permission to ban users he cannot use the `/ban` command.
+- Now Sophie checks admin rights to make sure he has the rights to perform this action, for example, if user don't have permission to ban users he cannot use the `/ban` command.
 - Sophie's help moved to the https://wiki-sophie.orangefox.tech, help module was removed.
-- SUDO users was removed and converted to operators.
-- Global bans was removed.
+- SUDO users were removed and converted to operators.
+- Global bans were removed.
 
 ### Notes
 - Support saving inline URL buttons from other bots.
-- Encryption method was changed to default MongoDB's one, it make decryption process faster and simpler.
+- Encryption method was changed to default MongoDB's one, it makes the decryption process faster and simpler.
 - Improved support for saving already formatted messages (Telegram X issue fixed).
-- Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `$FORMAT_HTML`, old parsing settings leaved for backward compatibility.
-- Markdown migrated to botapi version, for example, instead of `**bold**` you have to `*bold*`.
+- Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `$FORMAT_HTML`, old parsing settings left for backward compatibility.
+- Markdown migrated to the botapi version, for example, instead of `**bold**` you have to `*bold*`.
 - Forbidden to save blank notes.
 - Minor strings changes.
 
@@ -40,8 +40,8 @@ tags:
 
 ### Connections
 - Many improvements and fixes
-- Added `/allowusersconnect` to disallow users to connect to chat (admins will be able connect to chat).
-- If user not initialized dialog with Sophie but connected to chat directly - after starting bot Sophie will reply the 'connected successfully' message.
+- Added `/allowusersconnect` to disallow users to connect to chat (admins will be able to connect to chat).
+- If the user not initialized dialog with Sophie but connected to chat directly - after starting bot Sophie will reply the 'connected successfully' message.
 
 ### Errors reporting and crashlytics
 - Sophie is now using sentry.io as crashlytics storage.
@@ -49,16 +49,16 @@ tags:
 - Added random strings to crash message.
 
 ### Code changes
-- Only GNU/Linux OS are supported to run Sophie, otherwise use Docker.
+- Only GNU/Linux OS are supported to run Sophie, otherwise, use Docker.
 - Bot config file changed to YAML.
 - Removed support of Telethon as commands register.
-- Sophie now fully modular, modules now independent of one another.
+- Sophie is now fully modular, modules independent of one another.
 - Migrated from MongoDB Pymongo to MongoDB Motor
 - Added apscheduller support.
-- Components was removed.
-- Dockerfile base image was changed to a Alpine instead of Ubuntu.
-- Translations was converted to a YAML files instead of JSON.
+- Components were removed.
+- Dockerfile base image was changed to an Alpine instead of Ubuntu.
+- Translations were converted to a YAML file instead of JSON.
 - Logging changed to a loguru library.
-- Indroduced own API (Beta).
+- Introduced own API (Beta).
 
 And tons of other edits and fixes
