@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T16:27:05.223Z
+date: 2019-11-06T16:28:47.704Z
 tags: 
 ---
 
@@ -45,7 +45,7 @@ tags:
 
 ### Error reporting and crashlytics
 - Sophie now using sentry.io as crashlytics storage.
-- Removed generation crash files feature.
+- Removed crash files feature.
 - Added random strings to crash message.
 
 ### Code changes
