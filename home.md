@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: 1
-date: 2019-11-03T20:26:32.180Z
+date: 2019-11-06T16:52:43.849Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 > Sophie is modern and fast Telegram chat manager bot
 {.is-info}
 
-> :warning: This docs are WIP for Sophie v2.0, don't use it for current Sophie. Also this docs can have missing pages and typos.
+> :warning: These docs are WIP for Sophie v2.0, don't use it for current Sophie. Also, this docs can have missing pages and typos.
 {.is-warning}
 
 ---
@@ -31,7 +31,7 @@ Add Sophie to your chat:
 {.links-list}
 
 
-## Current Sophie stats:
+## Current Sophie stats
 <iframe
         src="http://localhost:8085/stats"
         src1="https://api-sophie.orangefox.tech/stats"
