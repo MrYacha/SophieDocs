@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-06T20:29:27.859Z
+date: 2019-11-15T16:38:30.681Z
 tags: 
 ---
 
@@ -11,19 +11,20 @@ tags:
 {.is-warning}
 
 ### General changes
-- Now Sophie checks admin rights to make sure he has the rights to perform this action, for example, if user don't have permission to ban users he cannot use the `/ban` command
+- Now Sophie checks admin rights to make sure he has the rights to perform this action, for example, if the user doesn't have permission to ban users he cannot use the `/ban` command
 - Sophie's help moved to the https://wiki-sophie.orangefox.tech, help module was removed
 - SUDO users were removed and converted to operators
 - Global bans were removed
-- Fixed issue when command can be recognized not on first line of message
+- Fixed issue when the command can be recognized not on the first line of the message
 
 ### Notes
 - Support saving inline URL buttons from other bots
 - Encryption method was changed to default MongoDB's one, it makes the decryption process faster and simpler
 - Improved support for saving already formatted messages (Telegram X issue fixed)
-- Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `$FORMAT_HTML`, old parsing settings left for backward compatibility
-- Markdown migrated to the botapi version, for example, instead of `**bold**` you have to `*bold*`
+- Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `%FORMAT_HTML`, old parsing settings left for backward compatibility
 - Forbidden to save blank notes
+- Implemented `/search` command to-do a text search query in notes
+- Implemented sorting by note name in `/notes` command feature
 - Minor strings changes
 
 ### Federations
@@ -46,7 +47,7 @@ tags:
 
 ### Errors reporting and crashlytics
 - Sophie is now using sentry.io as crashlytics storage
-- Removed raw crash files feature
+- Removed the raw crash files feature
 - Added random strings to the crash message
 
 ### Code changes
@@ -58,7 +59,7 @@ tags:
 - Added apscheduller support
 - Components were removed
 - Dockerfile base image was changed to an Alpine instead of Ubuntu
-- Translations was converted to YAML files instead of JSON
+- Translations were converted to YAML files instead of JSON
 - Logging changed to a loguru library
 - Introduced own API (Beta)
 
