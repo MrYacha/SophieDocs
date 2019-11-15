@@ -1,8 +1,8 @@
 ---
-title: Running bot
+title: Running Sophie
 description: "How to clone me" instruction by developers, by <3
 published: 1
-date: 2019-11-06T16:56:05.717Z
+date: 2019-11-15T16:18:59.812Z
 tags: 
 ---
 
