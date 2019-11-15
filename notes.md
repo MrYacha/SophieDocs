@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-06T16:54:17.802Z
+date: 2019-11-15T16:08:10.528Z
 tags: 
 ---
 
@@ -15,6 +15,7 @@ Also notes perfectly working in PM with Sophie.
 - `/clear (name)`: deletes the note.
 - `/notes` or `/saved`: Lists all notes.
 - `/noteinfo (name)`: Shows detailed info about the note, who updated and created the note.
+- `/search (search pattern)`: Search text in notes
 {.grid-list}
 
 ## Examples
@@ -45,6 +46,10 @@ This will retrieve the note and send it without formatting it; getting you the r
 
 ## Notes aliases
 TODO in v2.0!
+
+## Searching notes
+### Searching by note name
+### Searching by text
 
 ## Notes buttons and variables
 Notes support inline buttons, read the [help page about buttons](other/buttons) to get started with using it.
