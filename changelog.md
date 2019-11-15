@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-15T16:38:30.681Z
+date: 2019-11-15T16:39:11.057Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ tags:
 
 ### General changes
 - Now Sophie checks admin rights to make sure he has the rights to perform this action, for example, if the user doesn't have permission to ban users he cannot use the `/ban` command
-- Sophie's help moved to the https://wiki-sophie.orangefox.tech, help module was removed
+- Sophie's help moved to the https://wiki.sophiebot.gq, help module was removed
 - SUDO users were removed and converted to operators
 - Global bans were removed
 - Fixed issue when the command can be recognized not on the first line of the message
