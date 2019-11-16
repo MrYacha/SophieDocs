@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-16T18:27:39.575Z
+date: 2019-11-16T18:36:24.007Z
 tags: 
 ---
 
@@ -57,7 +57,7 @@ You can also use a `/search (search pattern)` command to find notes which have y
 
 ## Notes buttons and variables
 Notes support inline buttons, read the [help page about buttons](other/buttons) to get started with using it.
-Variables are special words which will be replaced by actual info like if you add `{id}` in your note it will be replaced by user ID which asked note, read the [help page about variables](notes/variables)
+Variables are special words which will be replaced by actual info like if you add `{id}` in your note it will be replaced by user ID which asked note, read the [help page about variables](/variables)
 
 ## Notes formatting and notes settings
 Every note can contain special settings, for example you can change formatting method to HTML by `[format:html]` and fully disable it by `[format:off]`
