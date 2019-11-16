@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-16T18:15:54.877Z
+date: 2019-11-16T18:18:35.549Z
 tags: 
 ---
 
@@ -60,9 +60,8 @@ Variables are special words which will be replaced by actual info like if you ad
 ## Notes formatting and notes settings
 Every note can contain special settings, for example you can change formatting method to HTML by `[format:html]` and fully disable it by `[format:off]`
 ### Notes settings list
-- `[format:<md/html/off>]`: Change the note formatting
-- `[preview]`: Enables the links preview in saved note
-- `[encryption:<yes/no>]`: Note encryption (enabled by default)
+- `%PARSEMODE_(HTML, NONE)`: Change the note formatting
+- `%PREVIEW`: Enables the links preview in saved note
 {.grid-list}
 
 ![](https://i.imgur.com/oR7HI5X.png){.align-abstopright}
