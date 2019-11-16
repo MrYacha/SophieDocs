@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-15T16:08:10.528Z
+date: 2019-11-16T18:15:54.877Z
 tags: 
 ---
 
@@ -14,7 +14,7 @@ Also notes perfectly working in PM with Sophie.
 - `#(name)` or `/get (name)`: Get the note registered to that word.
 - `/clear (name)`: deletes the note.
 - `/notes` or `/saved`: Lists all notes.
-- `/noteinfo (name)`: Shows detailed info about the note, who updated and created the note.
+- `/noteinfo (name)`: Shows detailed info about the note.
 - `/search (search pattern)`: Search text in notes
 {.grid-list}
 
@@ -41,7 +41,7 @@ You can also add captions for pictures, just add caption text after `/save word`
 Sophie can save notes from other bots, just reply `/save` on the saved message from another bot, saving pictures and buttons supported aswell.
 
 ## Retrieving notes without the formatting
-To retrieve a note without the formatting, use `/get (name) noformat`
+To retrieve a note without the formatting, use `/get (name) raw` or `/get (name) noformat`
 This will retrieve the note and send it without formatting it; getting you the raw note, allowing you to make easy edits.
 
 ## Notes aliases
@@ -49,6 +49,8 @@ TODO in v2.0!
 
 ## Searching notes
 ### Searching by note name
+You can search by notenames by using `/notes (search pattern)`
+![using_notes_cmd_pattern_search.png](/using_notes_cmd_pattern_search.png =x500)
 ### Searching by text
 
 ## Notes buttons and variables
