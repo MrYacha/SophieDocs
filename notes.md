@@ -2,7 +2,7 @@
 title: Notes
 description: Save this Shiba pic please
 published: 1
-date: 2019-11-16T18:18:35.549Z
+date: 2019-11-16T18:24:28.413Z
 tags: 
 ---
 
@@ -52,6 +52,8 @@ TODO in v2.0!
 You can search by notenames by using `/notes (search pattern)`
 ![using_notes_cmd_pattern_search.png](/using_notes_cmd_pattern_search.png =x500)
 ### Searching by text
+You can also use a `/search (search pattern)` command to find notes which have your pattern.
+![use_search_notes.png](/use_search_notes.png)
 
 ## Notes buttons and variables
 Notes support inline buttons, read the [help page about buttons](other/buttons) to get started with using it.
