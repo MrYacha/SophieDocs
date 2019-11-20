@@ -2,7 +2,7 @@
 title: Imports / exports
 description: Let's expose your data 😎
 published: 1
-date: 2019-11-20T18:26:57.883Z
+date: 2019-11-20T18:29:15.806Z
 tags: 
 ---
 
@@ -13,6 +13,7 @@ Sometimes you want to see all of your data in your chats or you want to copy you
 - `/import`: Import JSON file to chat
 {.grid-list}
 
+Notes: Exporting / importing avaible every 2 hours to prevent flooding.
 
 ## More use cases
 TODO
