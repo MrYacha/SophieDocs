@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-15T16:39:11.057Z
+date: 2019-11-20T19:42:59.770Z
 tags: 
 ---
 
@@ -16,6 +16,7 @@ tags:
 - SUDO users were removed and converted to operators
 - Global bans were removed
 - Fixed issue when the command can be recognized not on the first line of the message
+- Added Imports / exports feature
 
 ### Notes
 - Support saving inline URL buttons from other bots
