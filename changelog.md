@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-20T19:48:36.596Z
+date: 2019-11-20T19:51:27.263Z
 tags: 
 ---
 
@@ -23,7 +23,7 @@ tags:
 - Support saving inline URL buttons from other bots
 - Encryption method was changed to default MongoDB's one, it makes the decryption process faster and simpler
 - Improved support for saving already formatted messages (Telegram X issue fixed)
-- Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `%FORMAT_HTML`, old parsing settings left for backward compatibility
+- Implemented cashtags instead of old note settings, for example, instead of `[format:html]` you have to `%PARSEMODE_HTML`, old parsing settings left for backward compatibility
 - Forbidden to save blank notes
 - Implemented `/search` command to-do a text search query in notes
 - Implemented sorting by note name in `/notes` command feature
