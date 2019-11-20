@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-20T19:48:10.771Z
+date: 2019-11-20T19:48:36.596Z
 tags: 
 ---
 
@@ -16,10 +16,10 @@ tags:
 - SUDO users were removed and converted to operators
 - Global bans were removed
 - Fixed issue when the command can be recognized not on the first line of the message
-- Added [Imports / exports feature](imports_exports)
-- Added [stickers module](stickers)
+- Added [Imports / exports feature](/imports_exports)
+- Added [stickers module](/stickers)
 
-### [Notes](notes)
+### [Notes](/notes)
 - Support saving inline URL buttons from other bots
 - Encryption method was changed to default MongoDB's one, it makes the decryption process faster and simpler
 - Improved support for saving already formatted messages (Telegram X issue fixed)
@@ -30,13 +30,13 @@ tags:
 - Now after user press buttonnote but he blocked/never talked with bot, Sophie save state and after writing /start by user, she will send note
 - Minor strings changes
 
-### [Federations](feds)
+### [Federations](/feds)
 - Sophie now can ban users which she could not get
 - Implemented `/importfbans` command
 - Added JSON and CSV support for `/exportfbans`
 - Added timestamp for every federation ban
 
-### [Misc](misc)
+### [Misc](/misc)
 - `/stats` are now allowed only for operators
 - `/runs` are now can be disabled
 
