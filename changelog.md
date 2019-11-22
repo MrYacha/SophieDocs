@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-20T19:51:27.263Z
+date: 2019-11-22T19:40:59.381Z
 tags: 
 ---
 
@@ -39,6 +39,9 @@ tags:
 ### [Misc](/misc)
 - `/stats` are now allowed only for operators
 - `/runs` are now can be disabled
+
+### [Restrictions](/restriction)
+- Added silently commands for bans and mutes
 
 ### Languages
 - Many improvements and fixes
