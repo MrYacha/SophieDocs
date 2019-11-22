@@ -2,7 +2,7 @@
 title: Data privacy and security
 description: Sophie - the Facebook opposite
 published: 1
-date: 2019-11-06T16:55:18.639Z
+date: 2019-11-22T19:48:22.008Z
 tags: 
 ---
 
@@ -38,4 +38,27 @@ Crashlytics significantly helping Sophie be stable. We trying log as fewer data 
 - Raw update data which caused crash
     
 **Raw update example:**
-`{"message_id":172915,"from":{"id":483808054,"is_bot":false,"first_name":"Yacha","username":"MrYacha","language_code":"en"},"chat":{"id":-1001414865722,"title":"[paperplane] \/\/ your spam is your deathwish\/\/","type":"supergroup"},"date":1572372681,"text":"\/crash","entities":[{"offset":0,"length":6,"type":"bot_command"}]}`
+``` python
+{
+  "message_id": 172915,
+  "from": {
+    "id": 483808054,
+    "is_bot": false,
+    "first_name": "Yacha",
+    "username": "MrYacha",
+    "language_code": "en"
+  },
+  "chat": {
+    "id": -1001414865722,
+    "title": "[paperplane] \/\/ your spam is your deathwish\/\/",
+    "type": "supergroup"
+  },
+  "date": 1572372681,
+  "text": "\/crash",
+  "entities": [{
+    "offset": 0,
+    "length": 6,
+    "type": "bot_command"
+  }]
+}
+```
