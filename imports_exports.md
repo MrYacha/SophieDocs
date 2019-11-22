@@ -1,8 +1,8 @@
 ---
 title: Imports / exports
-description: Let's expose your data 😎
+description: Let's archive all your chat's data in text file
 published: 1
-date: 2019-11-20T18:29:15.806Z
+date: 2019-11-22T19:57:59.842Z
 tags: 
 ---
 
