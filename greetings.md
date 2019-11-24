@@ -2,14 +2,15 @@
 title: Greetings
 description: 
 published: 1
-date: 2019-11-24T19:27:49.289Z
+date: 2019-11-24T19:30:14.293Z
 tags: 
 ---
 
 ## Available commands
 #### General
 - `/setwelcome` or `/savewelcome`: Set welcome
-- `/welcome`: Shows welcomes settings
+- `/turnwelcome (on/off)`: Disable/enabled welcomes in your chat
+- `/welcome`: Shows current welcomes settings
 - `/resetwelcome`: Reset welcomes settings
 {.grid-list}
 #### Welcome security
