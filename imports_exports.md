@@ -2,7 +2,7 @@
 title: Imports / exports
 description: Let's archive all your chat's data in text file
 published: 1
-date: 2019-11-25T06:59:02.153Z
+date: 2019-11-25T07:06:00.641Z
 tags: 
 ---
 
@@ -27,7 +27,7 @@ For example if you want to copy notes or rules beetwin chats you can do it.
 TODO
 
 ## Moving from another bots to Sophie
-TODO
+Currently you can inport only @MissRose's export file.
 
 ## Moving from Sophie
-TODO
+Sophie have own exports format which not completely with others bots. But our format fully open, bot owners can add supporting of it in his bots. [Dev specifications of export file](/dev/export_file).
