@@ -2,7 +2,7 @@
 title: Imports / exports
 description: Let's archive all your chat's data in text file
 published: 1
-date: 2019-11-22T19:57:59.842Z
+date: 2019-11-25T06:56:36.801Z
 tags: 
 ---
 
@@ -16,7 +16,10 @@ Sometimes you want to see all of your data in your chats or you want to copy you
 Notes: Exporting / importing avaible every 2 hours to prevent flooding.
 
 ## More use cases
-TODO
+### Batch editing
+If you want to edit many notes or filters, you can export, make edits and import again.
+### Bakuping data
+You can backup chat settings before editing something.
 
 ## Example of editing JSON files
 TODO
