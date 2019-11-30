@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-22T19:40:59.381Z
+date: 2019-11-30T20:18:57.041Z
 tags: 
 ---
 
@@ -41,7 +41,17 @@ tags:
 - `/runs` are now can be disabled
 
 ### [Restrictions](/restriction)
-- Added silently commands for bans and mutes
+- Added silently commands for bans, mutes and kicking, like `/skick` or `/sban`
+- Now after kicking or banning Sophie will delete 'Sophie removed X' service message
+
+### [Greetings](/greetings)
+- Module was fully rewrited
+- `/setwelcome` now not require note with welcome
+- Now to disable welcome you have to `/turnwelcome off`
+- Updated welcome security: added security levels (button, captcha)
+- Added security note with which user will be propmted to validate his status in bot's PM.
+- Now if enabled Welcome Security Sophie won't send welcome message in chat, but she will send in user's PM after he/she proved self as human.
+- Added /welcomemute feature
 
 ### Languages
 - Many improvements and fixes
