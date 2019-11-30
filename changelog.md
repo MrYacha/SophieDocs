@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-30T20:18:57.041Z
+date: 2019-11-30T20:28:10.061Z
 tags: 
 ---
 
@@ -30,7 +30,7 @@ tags:
 - Now after user press buttonnote but he blocked/never talked with bot, Sophie save state and after writing /start by user, she will send note
 - Minor strings changes
 
-### [Federations](/feds)
+### [Federations](/feds) TODO
 - Sophie now can ban users which she could not get
 - Implemented `/importfbans` command
 - Added JSON and CSV support for `/exportfbans`
@@ -53,10 +53,10 @@ tags:
 - Now if enabled Welcome Security Sophie won't send welcome message in chat, but she will send in user's PM after he/she proved self as human.
 - Added /welcomemute feature
 
-### Languages
+### [Languages](/languages)
 - Many improvements and fixes
 
-### Connections
+### [Connections](/connections)
 - Many improvements and fixes
 - Added `/allowusersconnect` to disallow users to connect to chat (admins will be able to connect to the chat)
 - If user is not initialized dialog with Sophie but connected to the chat directly - after activating bot Sophie will reply with the 'connected successfully' message
