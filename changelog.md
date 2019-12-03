@@ -2,7 +2,7 @@
 title: Changelogs
 description: Evolution of Sophie
 published: 1
-date: 2019-11-30T20:28:10.061Z
+date: 2019-12-03T21:39:32.430Z
 tags: 
 ---
 
@@ -29,6 +29,7 @@ tags:
 - Implemented sorting by note name in `/notes` command feature
 - Now after user press buttonnote but he blocked/never talked with bot, Sophie save state and after writing /start by user, she will send note
 - Minor strings changes
+- 'buttonnote' now will redirect in Sophie's PM instead of trying PM you first.
 
 ### [Federations](/feds) TODO
 - Sophie now can ban users which she could not get
@@ -48,7 +49,7 @@ tags:
 - Module was fully rewrited
 - `/setwelcome` now not require note with welcome
 - Now to disable welcome you have to `/turnwelcome off`
-- Updated welcome security: added security levels (button, captcha)
+- Updated welcome security: added security levels (button, math), old '1 click to unmute' method now named as 'button'.
 - Added security note with which user will be propmted to validate his status in bot's PM.
 - Now if enabled Welcome Security Sophie won't send welcome message in chat, but she will send in user's PM after he/she proved self as human.
 - Added /welcomemute feature
