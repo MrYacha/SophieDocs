@@ -2,7 +2,7 @@
 title: Development TO-DO
 description: 
 published: 1
-date: 2019-12-05T18:20:25.130Z
+date: 2019-12-05T18:27:25.269Z
 tags: 
 ---
 
@@ -14,6 +14,12 @@ Connections:
 
 Misc:
 + Integrate paste.yacha.gq with Sophie
+
+Stickers:
++ Write /kang, /chatkang
+
+Greetings:
++ Support exports and improve imports
 
 Add modules:
 + Feds
