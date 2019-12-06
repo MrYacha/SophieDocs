@@ -2,12 +2,12 @@
 title: Development TO-DO
 description: 
 published: 1
-date: 2019-12-05T18:27:25.269Z
+date: 2019-12-06T17:29:01.058Z
 tags: 
 ---
 
 Notes:
-+ Alias button{action} to btn{action}
++ ~~Alias button{action} to btn{action}~~
 
 Connections:
 + Implement btnconnect
