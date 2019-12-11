@@ -2,7 +2,7 @@
 title: Development TO-DO
 description: 
 published: 1
-date: 2019-12-09T13:19:14.685Z
+date: 2019-12-11T18:51:52.650Z
 tags: 
 ---
 
@@ -13,7 +13,6 @@ tags:
 
 ## General:
 + u/bans integration
-+ combot integration
 ## Modules:
 Notes:
 + ~~Alias button{action} to btn{action}~~
@@ -44,5 +43,6 @@ Pins:
 
 Add modules:
 + Feds
++ Reports
 + Warns
 
