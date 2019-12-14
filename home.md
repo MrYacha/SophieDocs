@@ -2,27 +2,27 @@
 title: Home
 description: 
 published: 1
-date: 2019-11-06T16:52:43.849Z
+date: 2019-12-14T16:34:50.108Z
 tags: 
 ---
 
 # Sophie Telegram Bot
-> Sophie is modern and fast Telegram chat manager bot
+> Sophie is a modern and fast Telegram chat manager.
 {.is-info}
 
-> :warning: These docs are WIP for Sophie v2.0, don't use it for current Sophie. Also, this docs can have missing pages and typos.
+> :warning: These docs are WIP and made for Sophie v2.0, don't use them for current Sophie. Also, this docs might have missing pages and typos.
 {.is-warning}
 
 ---
 
-**Sophie's features over other bot's:**
+**Sophie's features over other bots:**
 - Modern
 - Fast
 - Modular
-- Fully async
-- Frequently updated
+- Fully asynchronous
 - Fully open-source
-- Sophie support your data privacy, we constantly updating privacy and security in Sophie
+- Frequently updated
+- Sophie respects your data privacy, we constantly improving privacy and security in Sophie
 
 Add Sophie to your chat:
 - [Sophie Bot](https://t.me/rSophieBot)
@@ -31,7 +31,7 @@ Add Sophie to your chat:
 {.links-list}
 
 
-## Current Sophie stats
+## Current Sophie stats (WIP)
 <iframe
         src="http://localhost:8085/stats"
         src1="https://api-sophie.orangefox.tech/stats"
