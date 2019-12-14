@@ -2,7 +2,7 @@
 title: Data privacy and security
 description: Sophie - the Facebook opposite
 published: 1
-date: 2019-12-14T16:45:15.322Z
+date: 2019-12-14T16:46:59.463Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ Sophie respects your privacy, every part of Sophie is open-source.
 Sophie's team are constantly improving privacy and security.
 
 > We don't collect your private data.
-We don't save your messages or any other information them.
+We don't save your messages or any other information about them.
 {.is-info}
 
 ## Which data we are saving
@@ -21,10 +21,10 @@ We don't save your messages or any other information them.
 - Timestamp of the date when Sophie had seen the user first time.
 
 ### Chat data
-- Chat name, username, and chat ID
-- We caching chat admins (1 hour after the last command)
+- Chat name, username, and Chat ID
+- We are caching chat admins (1 hour after the last command)
 
-We are not logging messages count, messages text or their authors! 
+We are **not** logging messages count, messages text or their authors! 
 
 ### Analytics
 - Speed of long queries
@@ -33,7 +33,7 @@ We are not logging messages count, messages text or their authors!
 - Number of new chats in 48 hours
 
 ### Crashlytics
-Crashlytics significantly helping Sophie be stable. We trying to log as fewer data as possible. Currently we can log only:
+Crashlytics significantly helping Sophie to be stable. We  are trying to log as fewer data as possible. Currently we can log only:
 - Crash traceback
 - Raw update data which caused crash
     
