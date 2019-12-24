@@ -2,7 +2,7 @@
 title: Development TO-DO
 description: 
 published: 1
-date: 2019-12-14T21:05:31.204Z
+date: 2019-12-24T17:41:14.580Z
 tags: 
 ---
 
@@ -16,7 +16,8 @@ tags:
 ## Modules:
 Notes:
 + ~~Alias button{action} to btn{action}~~ DONE
-+ Implement support saving own cb/sm buttons like it done for url buttons.
++ ~~Implement support saving own cb/sm buttons like it done for url buttons.~~
++ Implement support saving start/sm(in start mode)
 
 Connections:
 + Implement btnconnect
