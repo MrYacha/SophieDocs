@@ -2,7 +2,7 @@
 title: Development TO-DO
 description: 
 published: 1
-date: 2019-12-25T19:25:19.716Z
+date: 2019-12-25T20:08:42.596Z
 tags: 
 ---
 
@@ -20,7 +20,7 @@ Notes:
 + ~~Implement support saving start/sm(in start mode)~~
 
 Connections:
-+ Implement btnconnect
++ ~~Implement btnconnect~~
 
 Misc:
 + Integrate paste.yacha.gq with Sophie
