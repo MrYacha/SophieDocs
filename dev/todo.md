@@ -2,7 +2,7 @@
 title: Development TO-DO
 description: 
 published: 1
-date: 2019-12-24T17:41:14.580Z
+date: 2019-12-25T19:25:19.716Z
 tags: 
 ---
 
@@ -15,9 +15,9 @@ tags:
 + u/bans integration
 ## Modules:
 Notes:
-+ ~~Alias button{action} to btn{action}~~ DONE
++ ~~Alias button{action} to btn{action}~~
 + ~~Implement support saving own cb/sm buttons like it done for url buttons.~~
-+ Implement support saving start/sm(in start mode)
++ ~~Implement support saving start/sm(in start mode)~~
 
 Connections:
 + Implement btnconnect
@@ -31,7 +31,7 @@ Stickers:
 Greetings:
 + Support exports and improve imports
 + Add old welcomesecurity 'one click to unmute' method
-+ ~~Reneame wc 'button' to 'math'~~ DONE
++ ~~Reneame wc 'button' to 'math'~~
 
 Disabling:
 + Implement import function
